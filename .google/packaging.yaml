@@ -5,8 +5,13 @@
 ---
 status:       PUBLISHED
 technologies: [Android]
-categories:   [UI]
+categories:   [Widgets]
 languages:    [Java]
 solutions:    [Mobile]
 github:       android-CustomChoiceList
+level:        BEGINNER
+icon:         screenshots/icon-web.png
+apiRefs:
+    - android:android.widget.Checkable
+    - android:android.widget.ListView
 license: apache2
